@@ -1,0 +1,11 @@
+{
+  "name": "sc-web-templates",
+  "version": "1.0.0",
+  "description": "web-templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "achang",
+  "license": "ISC"
+}
